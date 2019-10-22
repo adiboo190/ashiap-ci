@@ -27,7 +27,7 @@ Server Requirements
 Pemasangan
 **********
 
-1. Pasang dengan mengunduh semua file diatas dengan cara <pre>git clone	https://github.com/adiboo190/smasa-project.git</pre>.
+1. Pasang dengan mengunduh semua file diatas dengan cara <pre>git clone	https://github.com/adiboo190/ashiap-ci.git</pre>.
 2. Taruh ke folder bawaan apache kamu. <pre>C:\xampp\htdocs</pre> atau <pre>/var/www/html</pre>
 3. Koneksikan database di {ROOT_APPS}/application/config/database.php
 4. Atur URL di {ROOT_APPS}/application/config/config.php
