@@ -27,8 +27,8 @@ Server Requirements
 Pemasangan
 **********
 
-1. Pasang dengan mengunduh semua file diatas dengan cara <pre>git clone	https://github.com/adiboo190/ashiap-ci.git</pre>.
-2. Taruh ke folder bawaan apache kamu. <pre>C:\xampp\htdocs</pre> atau <pre>/var/www/html</pre>
+1. Pasang dengan mengunduh semua file diatas dengan cara <code>git clone https://github.com/adiboo190/ashiap-ci.git</code>.
+2. Taruh ke folder bawaan apache kamu. <code>C:\xampp\htdocs</code> atau <code>/var/www/html</code>
 3. Koneksikan database di {ROOT_APPS}/application/config/database.php
 4. Atur URL di {ROOT_APPS}/application/config/config.php
 5. Impor databasenya yang berformat .sql
@@ -36,5 +36,7 @@ Pemasangan
 **************
 Username Login
 **************
+
+Sementara kami hanya menyediakan kresidensial user saja, karena masalah pengembangan
 
 user : 101104 & 2003-02-19
