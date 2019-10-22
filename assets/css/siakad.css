@@ -1,0 +1,12 @@
+* {
+	font-family: 'Segoe UI', Arial, sans-serif;
+	transition: all .3s;
+}
+
+/** Login Wrapper **/
+body,
+.row.main-row {
+	min-height: 100vh;
+	transition: all .3s;
+	background: #eee;
+}
