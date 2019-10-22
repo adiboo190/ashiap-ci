@@ -11,7 +11,7 @@ Server Requirements
 <table>
 	<tr>
 		<td>Sistem Operasi</td>
-		<td>Windows 7 Keatas</td>
+		<td>Windows 7 Keatas, Linux Mint Cinnamon 19.2, Kubuntu 19.04</td>
 	</tr>
 	<tr>
 		<td>SoftWare</td>
