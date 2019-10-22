@@ -8,7 +8,7 @@ Ashiap merupakan aplikasi berbasis Codeigniter yang digunakan untuk SIAKAD (Sist
 Server Requirements
 *******************
 
-<table>
+<table style="width">
 	<tr>
 		<td>Sistem Operasi</td>
 		<td>Windows 7 Keatas, Linux Mint Cinnamon 19.2, Kubuntu 19.04</td>
